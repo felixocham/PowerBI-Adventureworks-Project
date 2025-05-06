@@ -1,7 +1,9 @@
 # Adventureworks
 ## Source:
 Advanced DAX Calculations in Power BI Desktop: [Power BI Data Analyst](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/05-create-dax-calculations-in-power-bi-desktop-advanced.html)
+
 DAX Calculations in Power BI Desktop: [Power BI Data Analyst](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/04-create-dax-calculations-in-power-bi-desktop.html)
+
 Data Model in Power BI: [Power BI Data Analyst](https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/03-configure-data-model-in-power-bi-desktop.html)
 ## Introduction
 An improvement of skills since [PowerBI-Northwind-Traders](https://github.com/felixocham/PowerBI-Northwind-Traders/edit/master/README.md).
